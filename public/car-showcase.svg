@@ -1,0 +1,13 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="32" fill="#F8FAFC"/>
+  <ellipse cx="408" cy="414" rx="250" ry="42" fill="#DDE6F0"/>
+  <path d="M130 309C130 265 166 229 210 229H528C562 229 593 250 606 282L639 367H130V309Z" fill="#0A2540"/>
+  <path d="M216 229H486L560 299H170L216 229Z" fill="#1F4A72"/>
+  <circle cx="232" cy="368" r="44" fill="#111827"/>
+  <circle cx="232" cy="368" r="22" fill="#CBD5E1"/>
+  <circle cx="530" cy="368" r="44" fill="#111827"/>
+  <circle cx="530" cy="368" r="22" fill="#CBD5E1"/>
+  <rect x="292" y="250" width="146" height="40" rx="8" fill="#D4AF37"/>
+  <text x="365" y="276" text-anchor="middle" fill="#0A2540" font-size="18" font-family="Inter, Arial">CoopVest</text>
+</svg>
+
